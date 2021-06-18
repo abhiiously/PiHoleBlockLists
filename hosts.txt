@@ -87974,3 +87974,6 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 click.oneplus.cn
 0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 logbak.hicloud.com
